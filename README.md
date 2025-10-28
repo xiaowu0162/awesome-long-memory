@@ -9,9 +9,9 @@ This readme only reflects what we found in our literture research, which is by n
 
 #### Long-Context
 1. [Transformer-XL: Attentive Language Models beyond a Fixed-Length Context](https://aclanthology.org/P19-1285/) (Dai et al., ACL 2019)  
-2. [Compressive Transformers for Long-Range Sequence Modelling](https://openreview.net/forum?id=SylVNerFvr) (Rae et al., ICLR 2020)  
+2. [Compressive Transformers for Long-Range Sequence Modelling](https://openreview.net/forum?id=SylKikSYDH) (Rae et al., ICLR 2020)  
 3. [Memformer: A Memory-Augmented Transformer for Sequence Modeling](https://aclanthology.org/2022.findings-aacl.29/) (Wu et al., AACL 2022)  
-4. [Recurrent Memory Transformer](https://papers.nips.cc/paper_files/paper/2022/hash/e4b3215d2741ea9a748ee2b70b0c197e-Abstract-Conference.html) (Bulatov et al., NeurIPS 2022)  
+4. [Recurrent Memory Transformer](https://papers.nips.cc/paper_files/paper/2022/hash/47e288629a6996a17ce50b90a056a0e1-Abstract-Conference.html) (Bulatov et al., NeurIPS 2022)
 5. [Memory Augmented Large Language Models are Computationally Universal](https://arxiv.org/abs/2301.04589) (Schuurmans, arXiv 2023)  
 6. [Augmenting Language Models with Long-Term Memory](https://arxiv.org/abs/2306.07174) (Wang et al., NeurIPS 2023)  
 7. [MEMORYLLM: Towards Self-Updatable Large Language Models](https://arxiv.org/abs/2402.04624) (Wang et al., ICML 2024)  
@@ -47,7 +47,7 @@ This readme only reflects what we found in our literture research, which is by n
 1. [Synapse: Trajectory-as-Exemplar Prompting with Memory for Computer Control](https://arxiv.org/abs/2306.07863) (Zheng et al., ICLR 2024)  
 2. [Agent Workflow Memory](https://arxiv.org/abs/2409.07429) (Z. Wang et al., arXiv 2024)  
 3. [3D-Mem: 3D Scene Memory for Embodied Exploration and Reasoning](https://arxiv.org/abs/2411.17735) (Yang et al., arXiv 2024)  
-4. [Embodied VideoAgent: Persistent Memory from Egocentric Videos and Embodied Sensors](https://arxiv.org/abs/2501.00358) (Fan et al., arXiv 2024)  
+4. Embodied VideoAgent: Persistent Memory from Egocentric Videos and Embodied Sensors](https://arxiv.org/abs/2501.00358) (Fan et al., arXiv 2025)
 5. [3DLLM-Mem: Long-Term Spatial-Temporal Memory for Embodied 3D LLMs](https://arxiv.org/abs/2505.22657) (Hu et al., arXiv 2025)  
 6. [MEM1: Learning to Synergize Memory and Reasoning for Efficient Long-Horizon Agents](https://arxiv.org/abs/2506.15841) (Zhou et al., arXiv 2025)  
 7. [Reasoning and Planning for Long-term Active Embodied QA (LA-EQA)](https://arxiv.org/abs/2507.12846) (Ginting et al., arXiv 2025)  
@@ -71,7 +71,7 @@ This readme only reflects what we found in our literture research, which is by n
 * MemBench — [arXiv](https://arxiv.org/abs/2506.21605), [ACL Anthology](https://aclanthology.org/2025.findings-acl.989.pdf)  
 * BFCL V4 — [leaderboard](https://gorilla.cs.berkeley.edu/leaderboard.html), [memory blog](https://gorilla.cs.berkeley.edu/blogs/16_bfcl_v4_memory.html), [Gorilla repo](https://github.com/ShishirPatil/gorilla)
 
-### Resources
+### Software and Commercial Systems
 * MemGPT (project page) — [Berkeley project](https://sky.cs.berkeley.edu/project/memgpt/)  
 * Zep — [GitHub](https://github.com/getzep/zep), [Python SDK](https://github.com/getzep/zep-python), [Go SDK](https://github.com/getzep/zep-go)  
 * LangChain / LangGraph memory — [LangMem GitHub](https://github.com/langchain-ai/langmem), [LangGraph memory docs](https://langchain-ai.github.io/langgraph/concepts/memory/)  
