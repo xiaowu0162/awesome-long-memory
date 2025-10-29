@@ -42,7 +42,7 @@ This document only reflects what we found in our literture survey, which is by n
 1. [HippoRAG: Neurobiologically Inspired Long-Term Memory for Large Language Models](https://arxiv.org/abs/2405.14831) (Jiménez Gutiérrez et al., NeurIPS 2024)  
 1. [Improving Factuality with Explicit Working Memory](https://arxiv.org/abs/2412.18069) (Chen et al., ACL 2025)
 1. [From RAG to Memory: Non-Parametric Continual Learning for Large Language Models](https://arxiv.org/abs/2502.14802) (Jiménez Gutiérrez et al., ICML 2025)
-
+2. 
 
 ### Applied Domains
 
@@ -76,7 +76,9 @@ This document only reflects what we found in our literture survey, which is by n
 1. [Reasoning and Planning for Long-term Active Embodied QA (LA-EQA)](https://arxiv.org/abs/2507.12846) (Ginting et al., arXiv 2025)  
 1. [Agent KB: Leveraging Cross-Domain Experience for Agentic Problem Solving](https://arxiv.org/abs/2507.06229) (Tang et al., arXiv 2025)  
 1. [MemTool: Optimizing Short-Term Memory Management for Dynamic Tool Calling in LLM Agents](https://arxiv.org/abs/2507.21428) (Lumer et al., arXiv 2025)  
-1. [ReasoningBank: Scaling Agent Self-Evolving with Reasoning Memory](https://arxiv.org/abs/2509.25140) (Ouyang et al., arXiv 2025)  
+1. [ReasoningBank: Scaling Agent Self-Evolving with Reasoning Memory](https://arxiv.org/abs/2509.25140) (Ouyang et al., arXiv 2025)
+1. [AgentFold: Long-Horizon Web Agents with Proactive Context Management](https://arxiv.org/abs/2510.24699) (Ye et al., arXiv 2025)
+ 
 
 ### Benchmarks
 * Needle-in-a-Haystack — [GitHub](https://github.com/gkamradt/LLMTest_NeedleInAHaystack)  
