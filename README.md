@@ -42,7 +42,6 @@ This document only reflects what we found in our literture survey, which is by n
 1. [HippoRAG: Neurobiologically Inspired Long-Term Memory for Large Language Models](https://arxiv.org/abs/2405.14831) (Jiménez Gutiérrez et al., NeurIPS 2024)  
 1. [Improving Factuality with Explicit Working Memory](https://arxiv.org/abs/2412.18069) (Chen et al., ACL 2025)
 1. [From RAG to Memory: Non-Parametric Continual Learning for Large Language Models](https://arxiv.org/abs/2502.14802) (Jiménez Gutiérrez et al., ICML 2025)
-2. 
 
 ### Applied Domains
 
