@@ -5,9 +5,9 @@ Author: [Di Wu](https://xiaowu0162.github.io/) and [GPT-5 Thinking](https://open
 
 This document only reflects what we found in our literture survey, which is by no means complete. Feel free to submit a pr if you are interested!
 
-### Core Methods
+## Core Methods
 
-#### Long-Context or Memory LLM Architecture
+### Long-Context or Memory LLM Architecture
 1. [Improving Neural Language Models with a Continuous Cache](https://arxiv.org/abs/1612.04426) (Grave et al., ICLR 2017)  
 1. [Transformer-XL: Attentive Language Models beyond a Fixed-Length Context](https://aclanthology.org/P19-1285/) (Dai et al., ACL 2019)  
 1. [Compressive Transformers for Long-Range Sequence Modelling](https://openreview.net/forum?id=SylKikSYDH) (Rae et al., ICLR 2020)  
@@ -23,7 +23,7 @@ This document only reflects what we found in our literture survey, which is by n
 1. [M+: Extending MEMORYLLM with Scalable Long-Term Memory](https://arxiv.org/abs/2502.00592) (Wang et al., ICML 2025)  
 1. [Can Memory-Augmented Language Models Generalize on Reasoning-in-a-Haystack Tasks?](https://arxiv.org/abs/2503.07903) (Das et al., arXiv 2025)  
 
-#### Long-Context Representations and Continual Learning
+### Long-Context Representations and Continual Learning
 
 1. [In-context Autoencoder for Context Compression in a Large Language Model](https://arxiv.org/abs/2307.06945) (Ge et al., arXiv 2023)  
 1. [LoraRetriever: Input-Aware LoRA Retrieval and Composition for Mixed Tasks in the Wild](https://arxiv.org/abs/2402.09997) (Zhao et al., arXiv 2024)  
@@ -37,15 +37,15 @@ This document only reflects what we found in our literture survey, which is by n
 1. [Parametric Retrieval Augmented Generation](https://sigir2025.dei.unipd.it/detailed-program/paper?paper=9bf31c7ff062936a96d3c8bd1f8f2ff3) (Su et al., SIGIR 2025)  
 1. [Continual Learning via Sparse Memory Finetuning](https://arxiv.org/abs/2510.15103) (Lin et al., arXiv 2025)  
 
-#### Memory-Inspired Context Engineering 
+### Memory-Inspired Context Engineering 
 1. [MemGPT: Towards LLMs as Operating Systems](https://arxiv.org/abs/2310.08560) (Packer et al., 2023)
 1. [HippoRAG: Neurobiologically Inspired Long-Term Memory for Large Language Models](https://arxiv.org/abs/2405.14831) (Jiménez Gutiérrez et al., NeurIPS 2024)  
 1. [Improving Factuality with Explicit Working Memory](https://arxiv.org/abs/2412.18069) (Chen et al., ACL 2025)
 1. [From RAG to Memory: Non-Parametric Continual Learning for Large Language Models](https://arxiv.org/abs/2502.14802) (Jiménez Gutiérrez et al., ICML 2025)
 
-### Applied Domains
+## Applied Domains
 
-#### Chat Assistant
+### Chat Assistant
 1. [MemoryBank: Enhancing Large Language Models with Long-Term Memory](https://ojs.aaai.org/index.php/AAAI/article/view/29946) (Zhong et al., AAAI 2024)  
 1. [Embracing Compressive Memory in Real-World Long-Term Conversations](https://arxiv.org/abs/2402.11975) (Liu et al., 2024)  
 1. [Hello Again! LLM-powered Personalized Agent for Long-term Dialogue (LD-Agent)](https://arxiv.org/abs/2406.05925) (Li et al., 2024)  
@@ -59,13 +59,13 @@ This document only reflects what we found in our literture survey, which is by n
 1. [MemAgent: Reshaping Long-Context LLM with Multi-Conversation RL-Based Memory Agent](https://arxiv.org/abs/2507.02259) (Yu et al., 2025)  
 1. [SGMem: Sentence Graph Memory for Long-Term Conversational Agents](https://arxiv.org/abs/2509.21212) (Zhang et al., 2025)
 
-#### Reasoning
+### Reasoning
 1. [Sleep-Time Compute: Beyond Inference Scaling at Test-Time](https://arxiv.org/abs/2504.13171) (Lin et al., arXiv 2025)  
 1. [ReasonIR: Training Retrievers for Reasoning Tasks](https://arxiv.org/abs/2504.20595) (Shao et al., LM-Conf 2025)  
 1. [Contextual Experience Replay for Self-Improvement of Language Agents](https://aclanthology.org/2025.acl-long.694/) (Liu et al., ACL 2025)  
 1. [Emergent Hierarchical Reasoning in LLMs through Reinforcement Learning](https://arxiv.org/abs/2509.03646) (H. Wang et al., arXiv 2025)  
 
-#### Agent & Multi-Modal Systems
+### Agent & Multi-Modal Systems
 1. [Synapse: Trajectory-as-Exemplar Prompting with Memory for Computer Control](https://arxiv.org/abs/2306.07863) (Zheng et al., ICLR 2024)  
 1. [Agent Workflow Memory](https://arxiv.org/abs/2409.07429) (Z. Wang et al., arXiv 2024)  
 1. [3D-Mem: 3D Scene Memory for Embodied Exploration and Reasoning](https://arxiv.org/abs/2411.17735) (Yang et al., arXiv 2024)  
@@ -79,7 +79,7 @@ This document only reflects what we found in our literture survey, which is by n
 1. [AgentFold: Long-Horizon Web Agents with Proactive Context Management](https://arxiv.org/abs/2510.24699) (Ye et al., arXiv 2025)
  
 
-### Benchmarks
+## Benchmarks
 * Needle-in-a-Haystack — [GitHub](https://github.com/gkamradt/LLMTest_NeedleInAHaystack)  
 * L-Eval — [arXiv](https://arxiv.org/abs/2307.11088), [OpenReview](https://openreview.net/forum?id=eUAr4HwU0X), [GitHub](https://github.com/OpenLMLab/LEval)  
 * LongBench — [arXiv](https://arxiv.org/abs/2308.14508), [ACL Anthology](https://aclanthology.org/2024.acl-long.172/), [GitHub](https://github.com/THUDM/LongBench)  
@@ -95,7 +95,7 @@ This document only reflects what we found in our literture survey, which is by n
 * MemBench — [arXiv](https://arxiv.org/abs/2506.21605), [ACL Anthology](https://aclanthology.org/2025.findings-acl.989.pdf)  
 * BFCL V4 — [leaderboard](https://gorilla.cs.berkeley.edu/leaderboard.html), [memory blog](https://gorilla.cs.berkeley.edu/blogs/16_bfcl_v4_memory.html), [Gorilla repo](https://github.com/ShishirPatil/gorilla)
 
-### Software and Commercial Systems
+## Software and Commercial Systems
 * MemGPT — [project page](https://sky.cs.berkeley.edu/project/memgpt/)  
 * Zep — [GitHub](https://github.com/getzep/zep), [Python SDK](https://github.com/getzep/zep-python), [Go SDK](https://github.com/getzep/zep-go)  
 * LangChain / LangGraph memory — [LangMem GitHub](https://github.com/langchain-ai/langmem), [LangGraph memory docs](https://langchain-ai.github.io/langgraph/concepts/memory/)  
