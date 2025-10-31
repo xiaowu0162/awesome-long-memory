@@ -33,7 +33,8 @@ This document only reflects what we found in our literture survey, which is by n
 1. [Training Plug-n-Play Knowledge Modules with Deep Context Distillation](https://arxiv.org/abs/2503.08727) (Caccia et al., COLM 2025)  
 1. [ATLAS: Learning to Optimally Memorize the Context at Test Time](https://arxiv.org/abs/2505.23735) (Behrouz et al., arXiv 2025)  
 1. [Cartridges: Lightweight and General-Purpose Long Context Representations via Self-Study](https://arxiv.org/abs/2506.06266) (Eyuboglu et al., arXiv 2025)  
-1. [PERK: Long-Context Reasoning as Parameter-Efficient Test-Time Training](https://arxiv.org/abs/2507.06415) (Chen et al., arXiv 2025)  
+1. [Self-Adapting Language Models](https://arxiv.org/abs/2506.10943) (Zweiger et al., arXiv 2025)
+1. [PERK: Long-Context Reasoning as Parameter-Efficient Test-Time Training](https://arxiv.org/abs/2507.06415) (Chen et al., arXiv 2025)
 1. [Parametric Retrieval Augmented Generation](https://sigir2025.dei.unipd.it/detailed-program/paper?paper=9bf31c7ff062936a96d3c8bd1f8f2ff3) (Su et al., SIGIR 2025)  
 1. [Continual Learning via Sparse Memory Finetuning](https://arxiv.org/abs/2510.15103) (Lin et al., arXiv 2025)  
 
