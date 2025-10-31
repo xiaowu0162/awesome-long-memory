@@ -62,7 +62,7 @@ This document only reflects what we found in our literture survey, which is by n
 
 ### Reasoning
 1. [Sleep-Time Compute: Beyond Inference Scaling at Test-Time](https://arxiv.org/abs/2504.13171) (Lin et al., arXiv 2025)  
-1. [ReasonIR: Training Retrievers for Reasoning Tasks](https://arxiv.org/abs/2504.20595) (Shao et al., LM-Conf 2025)  
+1. [ReasonIR: Training Retrievers for Reasoning Tasks](https://arxiv.org/abs/2504.20595) (Shao et al., COLM 2025)  
 1. [Contextual Experience Replay for Self-Improvement of Language Agents](https://aclanthology.org/2025.acl-long.694/) (Liu et al., ACL 2025)  
 1. [Emergent Hierarchical Reasoning in LLMs through Reinforcement Learning](https://arxiv.org/abs/2509.03646) (H. Wang et al., arXiv 2025)  
 
