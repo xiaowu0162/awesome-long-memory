@@ -1,4 +1,4 @@
-# awesome-long-term-memory
+# awesome-long-memory
 A collection of long-term memory papers for large language models (LLMs), organized by their primary focus.
 
 Author: [Di Wu](https://xiaowu0162.github.io/) and [GPT-5 Thinking](https://openai.com/index/introducing-gpt-5/). 
