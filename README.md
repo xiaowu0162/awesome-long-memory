@@ -110,6 +110,7 @@ This document only reflects what we found in our literture survey, which is by n
 * 3DMem-Bench (from 3DLLM-Mem) — [arXiv](https://arxiv.org/abs/2505.22657), [project](https://3dllm-mem.github.io/)  
 * MemBench — [arXiv](https://arxiv.org/abs/2506.21605), [ACL Anthology](https://aclanthology.org/2025.findings-acl.989.pdf)  
 * BFCL V4 — [leaderboard](https://gorilla.cs.berkeley.edu/leaderboard.html), [memory blog](https://gorilla.cs.berkeley.edu/blogs/16_bfcl_v4_memory.html), [Gorilla repo](https://github.com/ShishirPatil/gorilla)
+* EmbodiedMemory-Bench — [arXiv](https://arxiv.org/abs/2609.28236), [GitHub](https://github.com/ZJU-OmniAI/Embodied-Omni/tree/main/embodied_memory), [project](https://zju-omniai.github.io/Embodied-Omni/EmbodiedMemoryBench/), [HF dataset](https://huggingface.co/datasets/lzLiang/EmbodiedMemoryBench)  
 
 ## Software and Commercial Systems
 * MemGPT — [project page](https://sky.cs.berkeley.edu/project/memgpt/)  
